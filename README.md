@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)<br>
 ![C](https://img.shields.io/badge/C-9cf?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)<br>
+![Html5](https://img.shields.io/badge/Html5-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)<br>
+![Css3](https://img.shields.io/badge/Css3-9cf?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)<br>
 
