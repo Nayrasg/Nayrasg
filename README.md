@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ## Skills
 
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)<br>
+![C](https://img.shields.io/badge/C-9cf?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)<br>
+
