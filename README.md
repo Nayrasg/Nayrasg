@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-9cf?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
 ![Html5](https://img.shields.io/badge/Html5-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![Css3](https://img.shields.io/badge/Css3-9cf?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)<br>
+<br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayrasg&amp;theme=light&amp;hide_langs_below=1">
