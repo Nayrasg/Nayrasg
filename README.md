@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skills
+
+![Java](https://img.shields.io/badge/Java-009505?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)<br>
